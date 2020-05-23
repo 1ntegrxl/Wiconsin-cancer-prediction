@@ -32,17 +32,19 @@ Sources :
   1) le numéro d'identification
   2) Diagnostic ( M = maligne , B = bénigne )
   3) Dix fonctions à valeurs réelles sont calculées pour chaque noyau de la cellule :
-    a) rayon (moyenne des distances de centre aux points sur le périmètre)
-    b) la texture (écart-type des valeurs de gris)
-    c) périmètre
-    d) zone
-    e) la douceur (variation locale de longueurs de rayon)
-    f ) la compacité (périmètre ^ 2 / zone - 1.0)
-    g) concavité (gravité des portions concaves du contour) des points (nombre de parties concaves
+    - rayon (moyenne des distances de centre aux points sur le périmètre)
+    - la texture (écart-type des valeurs de gris)
+    - la texture (écart-type des valeurs de gris)
+    - le périmètre
+    - zone
+    - la douceur (variation locale de longueurs de rayon)
+    - la compacité (périmètre ^ 2 / zone - 1.0)
+    - concavité (gravité des portions concaves du contour) des points (nombre de parties concaves
     du contour)
-    h) concaves
-    i) la symétrie
-    j) la dimension fractale (« approximation du littoral " - 1 )
+    - concaves
+    - la symétrie
+    - la dimension fractale (« approximation du littoral " - 1 )
+  
   Plusieurs des documents mentionnés ci-dessus contiennent des descriptions détaillées sur comment ces
   caractéristiques sont calculées.
   Distribution de classe : 357 bénigne, maligne 212
