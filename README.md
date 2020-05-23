@@ -32,6 +32,7 @@ Sources :
   1) le numéro d'identification
   2) Diagnostic ( M = maligne , B = bénigne )
   3) Dix fonctions à valeurs réelles sont calculées pour chaque noyau de la cellule :
+  
     - rayon (moyenne des distances de centre aux points sur le périmètre)
     - la texture (écart-type des valeurs de gris)
     - la texture (écart-type des valeurs de gris)
