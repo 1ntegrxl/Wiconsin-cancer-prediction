@@ -8,6 +8,7 @@ Sources :
   Mangasarian, Computer Sciences Dept., University of Wisconsin, 1210 West Dayton St., Madison, WI
   53706, olvi@cs.wisc.edu
   Date: Novembre 1995
+
  ### Description :
   Caractéristiques sont calculées à partir d'une image numérisée d'une aiguille fine d’aspiration (FNA) d'une
   masse au sein. Elles décrivent les caractéristiques des noyaux de cellules présentes dans l'image .
@@ -48,4 +49,11 @@ Sources :
   
   Plusieurs des documents mentionnés ci-dessus contiennent des descriptions détaillées sur comment ces
   caractéristiques sont calculées.
-  Distribution de classe : 357 bénigne, maligne 212
+  Distribution de classe : 357 bénigne, maligne 212.
+  
+  
+  ## TODO 
+  
+    1- Effectuer une exploration des données par l'outil KNIME
+    2- Construire des chaînes de traitement (workflow)
+    3- Interpréter les résultats graphiques
