@@ -1,5 +1,15 @@
 # Wisconsin cancer (breast cancer) analysis
 
+## Description Projet
+
+Petite première expérience avec du Machine Learning, on commence doucement avec des données du cancer Wisconsin. Tout d'abord, j'ai exploré les données, identifié les corrélations entre les différentes variables du dataset puis j'ai essayé de faire des prédictions en utilisant des modèles d'apprentissages.
+
+## Comparaison régression logisitique (Logistic regression) et modèle d'arbres de décision (Decision Tree Classifier)
+
+Les résultats trouvés dans <code>modeling.ipynb</code> prouvent que la technique DecisionTreeClassifier est meilleur que la modélisation en régression linéaire. On a 92 % de précision pour le DecisionTreeClassifier et 90% pour la régression linéaire.
+
+Le score recupéré à partir de la matrice de confusion (confusion matrix) de DecisioonTreeClassifier est aussi supérieur à celui de la régression linéaire.
+
 ## Données Diagnostic de cancer Wisconsin (WDBC)
 Sources :
   Dr. William H. Wolberg, General Surgery Dept., University of Wisconsin, Clinical Sciences Center, Madison,
@@ -52,8 +62,3 @@ Sources :
   Distribution de classe : 357 bénigne, maligne 212.
   
   
-  ## TODO 
-  
-    1- Effectuer une exploration des données par l'outil KNIME
-    2- Construire des chaînes de traitement (workflow)
-    3- Interpréter les résultats graphiques
