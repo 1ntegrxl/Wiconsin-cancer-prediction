@@ -1,4 +1,4 @@
-# Wisconsin cancer (breast cancer) analysis
+# Analyse des données et modélisation des données du cancer du sein 
 
 ## Description Projet
 
