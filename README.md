@@ -6,7 +6,7 @@ Petite première expérience avec du Machine Learning, on commence doucement ave
 
 ## Comparaison régression logisitique (Logistic regression) et modèle d'arbres de décision (Decision Tree Classifier)
 
-Les résultats trouvés dans <code>modeling.ipynb</code> prouvent que la technique DecisionTreeClassifier est meilleur que la modélisation en régression linéaire. On a 92 % de précision pour le DecisionTreeClassifier et 90% pour la régression linéaire.
+Les résultats trouvés dans <code>modeling.ipynb</code> prouvent que la technique DecisionTreeClassifier est meilleure que la modélisation en régression linéaire en termes de prédictions mais aussi en termes de précision. On a 92 % de précision pour le DecisionTreeClassifier et 90% pour la régression linéaire.
 
 Le score recupéré à partir de la matrice de confusion (confusion matrix) de DecisioonTreeClassifier est aussi supérieur à celui de la régression linéaire.
 
