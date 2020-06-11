@@ -2,7 +2,7 @@
 
 ## Description Projet
 
-Petite première expérience avec du Machine Learning, on commence doucement avec des données du cancer Wisconsin. Tout d'abord, j'ai exploré les données, identifié les corrélations entre les différentes variables du dataset puis j'ai essayé de faire des prédictions en utilisant des modèles d'apprentissages.
+Petite première expérience avec du Machine Learning, on commence doucement avec des données du cancer Wisconsin ... Tout d'abord, j'ai exploré les données, identifié les corrélations entre les différentes variables du dataset puis j'ai essayé de faire des prédictions en utilisant des modèles d'apprentissages.
 
 ## Comparaison régression logisitique (Logistic regression) et modèle d'arbres de décision (Decision Tree Classifier)
 
